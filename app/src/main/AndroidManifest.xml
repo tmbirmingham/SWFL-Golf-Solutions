@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/baseline_golf_course_24"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/splashScreenTheme"
+        tools:targetApi="31">
+        <activity
+            android:name=".Tiburon"
+            android:exported="false" />
+        <activity
+            android:name=".Valencia"
+            android:exported="false" />
+        <activity
+            android:name=".AHGC"
+            android:exported="false"
+            android:label="@string/arrowhead_header"
+            android:theme="@style/Theme.SWFLGolfSolutions" />
+        <activity
+            android:name=".Course_Selection"
+            android:exported="false"
+            android:label="@string/title_activity_course_selection" />
+        <activity
+            android:name=".WelcomeScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

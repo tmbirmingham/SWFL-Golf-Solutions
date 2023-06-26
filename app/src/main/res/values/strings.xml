@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SWFL Golf Solutions</string>
+    <string name="title_activity_course_selection">course_Selection</string>
+
+    <string name="arrowhead_button">Arrowhead Golf Course</string>
+    <string name="valencia_button">Valencia Golf Course</string>
+    <string name="tiburon_button">Tiburon Golf Course</string>
+
+    <string name="back">Back</string>
+    <string name="arrowhead_header">Arrowhead Golf Course</string>
+    <string name="arrowhead_blurb">Arrowhead Golf Course (Naples) is a beautiful, player friendly course that offers a great time for any level of golfer. Whether your are looking to play or just practice, you can find it here.</string>
+    <string name="arrowhead_link">https://arrowheadgolfnaples.com/</string>
+
+    <string name="valencia_header">Valencia Golf Course</string>
+    <string name="valencia_blurb">Valencia Golf Course Naples Florida offers wide fairways and a good time. Competitive rates and wide fairways make for a great time!</string>
+    <string name="valencia_pic1">Picture of fairway at valencia</string>
+    <string name="valencia_link">https://www.valenciagolfandcountryclub.com/</string>
+
+    <string name="tiburon_header">Tiburon Golf Course</string>
+    <string name="tiburon_blurb">Tiburon Naples features two courses, the Gold Course and the Black Course. Opened in 1998 and 2001, respectively, Tiburon Naples has been serving Naples by offering a tour level course to the public.</string>
+    <string name="tiburon_link">https://www.tiburonnaples.com/</string>
+
+    <string name="first_fragment_label" />
+    <string name="second_fragment_label" />
+    <string name="action_settings" />
+
+</resources>
